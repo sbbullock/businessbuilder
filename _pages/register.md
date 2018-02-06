@@ -3,7 +3,7 @@ ID: 42
 post_title: Register
 author: wordpress
 post_excerpt: ""
-layout: post
+layout: page
 permalink: http://business-builder.local/register/
 published: true
 post_date: 2018-02-06 04:49:44
