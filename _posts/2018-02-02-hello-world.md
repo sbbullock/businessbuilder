@@ -1,11 +1,11 @@
 ---
 ID: 1
 post_title: Hello world!
-author: Daniel
+author: wordpress
 post_excerpt: ""
 layout: post
 permalink: >
-  http://start-a-business.local/hello-world/
+  http://business-builder.local/hello-world/
 published: true
 post_date: 2018-02-02 05:20:46
 ---

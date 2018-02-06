@@ -1,11 +1,11 @@
 ---
 ID: 2
 post_title: Sample Page
-author: Daniel
+author: wordpress
 post_excerpt: ""
 layout: page
 permalink: >
-  http://start-a-business.local/sample-page/
+  http://business-builder.local/sample-page/
 published: true
 post_date: 2018-02-02 05:20:46
 ---
