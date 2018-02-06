@@ -3,7 +3,7 @@ ID: 52
 post_title: Password Reset
 author: wordpress
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://business-builder.local/password-reset/
 published: true
