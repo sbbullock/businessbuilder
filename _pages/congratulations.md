@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-16 22:15:55
 ---
-<img class="alignnone size-medium wp-image-106" src="http://business-builder.local/wp-content/uploads/2018/02/woman-1401616_1920-300x300.jpg" alt="" width="300" height="300" />
+&nbsp;
+
+<img class="alignnone size-medium wp-image-110" src="http://business-builder.local/wp-content/uploads/2018/02/businessman-2056022_1920-300x188.jpg" alt="" width="300" height="188" />
 
 <a href="http://business-builder.local/whats-your-idea/">Previous</a>           <a href="http://business-builder.local/courses/">Exit to Menu</a>
