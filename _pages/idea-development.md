@@ -5,7 +5,7 @@ author: wordpress
 post_excerpt: ""
 layout: page
 permalink: >
-  http://business-builder.local/elementor-81/
+  http://business-builder.local/idea-development/
 published: true
 post_date: 2018-02-16 21:37:27
 ---
