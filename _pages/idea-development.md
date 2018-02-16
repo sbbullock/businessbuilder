@@ -26,6 +26,6 @@ Nobody solves a problem on their own. It takes communication to know the true ex
 <h3><b>Tenacity</b></h3>
 Most importantly, don’t give up. What we often view as failure is actually the process of deduction. We start with a general idea of what we want and if we stick to it, the best solution comes after a lot of trial and error. Be creative and flexible and willing to change course as needed. Really great products don’t happen the first time around, they are molded and shaped from clunky initial attempts into a well-tuned solution. Don’t be worried if your final outcome is much different than your first ideas - that’s part of the process.
 
-<a href="#">
+<a href="http://business-builder.local/validating-your-idea/">
 Next
 </a>
