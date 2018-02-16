@@ -1,6 +1,6 @@
 ---
 ID: 81
-post_title: Product Development
+post_title: Idea Development
 author: wordpress
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-16 21:37:27
 ---
-<h2>Getting Your Product Market Ready</h2>
+<h2>Getting Your Idea Market Ready</h2>
 <img class="alignnone size-medium wp-image-84" src="http://business-builder.local/wp-content/uploads/2018/02/business-891339_640-300x225.png" alt="" width="300" height="225" />
 
 &nbsp;
@@ -28,6 +28,6 @@ Nobody solves a problem on their own. It takes communication to know the true ex
 <h3><b>Tenacity</b></h3>
 Most importantly, don’t give up. What we often view as failure is actually the process of deduction. We start with a general idea of what we want and if we stick to it, the best solution comes after a lot of trial and error. Be creative and flexible and willing to change course as needed. Really great products don’t happen the first time around, they are molded and shaped from clunky initial attempts into a well-tuned solution. Don’t be worried if your final outcome is much different than your first ideas - that’s part of the process.
 
-<a href="#">
+<a href="http://business-builder.local/validating-your-idea/">
 Next
 </a>
