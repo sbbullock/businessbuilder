@@ -10,7 +10,7 @@ published: true
 post_date: 2018-02-16 21:37:27
 ---
 &nbsp;
-<h2><img class="size-medium wp-image-84 alignright" src="http://business-builder.local/wp-content/uploads/2018/02/business-891339_640-300x225.png" alt="" width="300" height="225" />You have an idea - so what?</h2>
+<h3><img class="size-medium wp-image-84 alignright" src="http://business-builder.local/wp-content/uploads/2018/02/business-891339_640-300x225.png" alt="" width="300" height="225" />You have an idea - so what?</h3>
 The number one thing that seperates entrepreneurs from average people is actually taking their ideas and making them work in the market. Everyone has ideas of how products or services they use everyday could be improved. We’ve all had the discussion of how a popular company should change feature A or service X. The key to success is determining those things that people really care about and providing a solution that they are willing to pay for. So how do we do that?
 <h3><b>Pain Points </b></h3>
 The best products are those that not only make life better, they serve a core need that is lacking in a customer’s life. The customer may not even recognize it themselves, or know how to concisely describe it.
