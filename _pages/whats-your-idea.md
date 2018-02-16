@@ -13,4 +13,4 @@ Add form here
 
 &nbsp;
 
-<a href="http://business-builder.local/validating-your-idea/">Previous </a>           <a href="http://business-builder.local/courses/">Exit</a>
+<a href="http://business-builder.local/validating-your-idea/">Previous </a>           <a href="http://business-builder.local/congratulations/">Next</a>
