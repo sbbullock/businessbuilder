@@ -9,8 +9,9 @@ permalink: >
 published: true
 post_date: 2018-02-16 22:15:55
 ---
-&nbsp;
-
+<h2>Great Job! You finished this section. Go take a break</h2>
 <img class="alignnone size-medium wp-image-110" src="http://business-builder.local/wp-content/uploads/2018/02/businessman-2056022_1920-300x188.jpg" alt="" width="300" height="188" />
+
+&nbsp;
 
 <a href="http://business-builder.local/whats-your-idea/">Previous</a>           <a href="http://business-builder.local/courses/">Exit to Menu</a>
