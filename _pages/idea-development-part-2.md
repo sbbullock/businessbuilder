@@ -9,10 +9,11 @@ permalink: >
 published: true
 post_date: 2018-02-16 21:40:51
 ---
-https://youtu.be/3_A5JNLeHAQ
-<a href="http://business-builder.local/idea-development-part-1/">
-Previous
-</a>
-<a href="http://business-builder.local/idea-development-part-3/">
-Next
-</a>
+<h2>Validating Your Ideas</h2>		
+		https://youtu.be/3_A5JNLeHAQ		
+			<a href="http://business-builder.local/idea-development-part-1/">
+						Previous
+					</a>
+			<a href="http://business-builder.local/idea-development-part-3/">
+						Next
+					</a>
