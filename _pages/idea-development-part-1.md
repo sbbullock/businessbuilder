@@ -1,6 +1,6 @@
 ---
 ID: 117
-post_title: Idea Development
+post_title: Idea Development Part 1
 author: wordpress
 post_excerpt: ""
 layout: page
