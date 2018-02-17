@@ -1,6 +1,6 @@
 ---
 ID: 86
-post_title: Validating Your Idea
+post_title: Idea Development Part 2
 author: wordpress
 post_excerpt: ""
 layout: page
