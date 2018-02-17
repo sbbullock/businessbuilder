@@ -13,6 +13,6 @@ https://youtu.be/3_A5JNLeHAQ
 			<a href="http://business-builder.local/idea-development-part-1/">
 						Previous
 					</a>
-			<a href="#">
+			<a href="http://business-builder.local/idea-development-part-3/">
 						Next
 					</a>
